@@ -1,7 +1,7 @@
 # Hardhat Project
 
 
-Contract deployed to: 0x6D4fE2531B804016Ab5D3e1A8764c8b52429b2CE
+Contract deployed to: 0x71C0B94448D9Cc914eB0b4D26c11171e05fD68FD
 
 Minted domain banana.bonk
 
