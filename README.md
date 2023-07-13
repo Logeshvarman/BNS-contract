@@ -1,5 +1,6 @@
 # Hardhat Project
 
+BNS [UI](https://github.com/Logeshvarman/Bonk-Name-Service-UI)
 
 Contract deployed to: 0x71C0B94448D9Cc914eB0b4D26c11171e05fD68FD
 
