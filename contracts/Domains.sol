@@ -32,7 +32,7 @@ contract Domains is ERC721URIStorage {
 
     constructor(string memory _tld)
         payable
-        ERC721("bonk Name Service", "NNS")
+        ERC721("bonk Name Service", "BNS")
     {
         owner = payable(msg.sender);
         tld = _tld;
